@@ -1,0 +1,86 @@
+#nav-ul {
+  display: flex;
+  list-style: none;
+}
+
+#nav-li {
+  margin: 0px;
+  padding: 0px;
+}
+.menu ul li {
+  list-style-type: none;
+
+  margin: 0 5px;
+  text-align: center;
+  display: inline-block;
+}
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+.sema-element {
+  display: block;
+  text-align: center;
+}
+nav {
+  width: 1500px;
+  margin: 0 auto;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+ul {
+  list-style: none;
+  display: inline;
+  text-align: center;
+}
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+.image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+.image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+.image4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+body{
+    background: url("img/fon4.jpeg");
+}
+fieldset {
+    display: inline-block;
+    width: 300px;
+  }
+  div {
+    margin: 5px;
+  }
+  label { 
+    width: 100px; 
+    display: inline-block;
+ }
+ form {
+    text-align: center;
+ }
