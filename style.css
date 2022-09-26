@@ -1,13 +1,19 @@
 #nav-ul {
+  justify-content: center;
+  text-align: center;
   display: flex;
   list-style: none;
 }
 
 #nav-li {
+  justify-content: center;
+  text-align: center;
   margin: 0px;
   padding: 0px;
 }
 .menu ul li {
+  justify-content: center;
+  text-align: center;
   list-style-type: none;
 
   margin: 0 5px;
@@ -25,7 +31,9 @@
   text-align: center;
 }
 nav {
-  width: 1500px;
+  justify-content: center;
+  text-align: center;
+  
   margin: 0 auto;
   text-align: center;
 }
