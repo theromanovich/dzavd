@@ -30,14 +30,15 @@
   display: block;
   text-align: center;
 }
-nav {
+nav { 
   justify-content: center;
   text-align: center;
-  
+ 
   margin: 0 auto;
   text-align: center;
 }
 p {
+ 
   text-align: center;
 }
 h1 {
@@ -77,6 +78,7 @@ ul {
 }
 body{
     background: url("img/fon4.jpeg");
+   
 }
 fieldset {
     display: inline-block;
@@ -92,3 +94,16 @@ fieldset {
  form {
     text-align: center;
  }
+
+
+ .wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.price {
+    font-size: 8em;
+    font-weight: 300;
+    color: #fff;
+  }
